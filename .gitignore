@@ -14,6 +14,7 @@ hob-image-*.bb
 *.orig
 *.rej
 *~
+!meta-fsl-arm
 !meta-yocto
 !meta-yocto-bsp
 bitbake/doc/manual/html/
