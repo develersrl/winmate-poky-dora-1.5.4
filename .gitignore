@@ -17,6 +17,7 @@ hob-image-*.bb
 !meta-fsl-arm
 !meta-fsl-arm-extra
 !meta-fsl-demos
+!meta-openembedded
 !meta-yocto
 !meta-yocto-bsp
 bitbake/doc/manual/html/
