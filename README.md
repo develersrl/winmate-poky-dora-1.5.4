@@ -214,7 +214,7 @@ run boot_yocto_sd
 * Configure eGTouchD to behave like a proper touch panel: in `/etc/eGTouchL.ini`, change the `ReportMode` to emit a click on touch event:
 
 ```
-ReportMode 2
+ReportMode 1
 ```
 
 * Start the touchscreen daemon:
